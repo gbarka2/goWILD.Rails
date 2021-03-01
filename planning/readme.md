@@ -42,7 +42,7 @@ Post-MVP
 
 ## Wireframes
 
-- [Home Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627794/capstone/IMG_5830_earpug.heic)
+- ![Home Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627794/capstone/IMG_5830_earpug.heic)
 - [Parks Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627787/capstone/IMG_5832_snlcxe.heic)
 - [Discover Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627798/capstone/IMG_5834_dlzcdk.heic)
 - [Plan Your Visit Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627791/capstone/IMG_5833_w7erk4.heic)
