@@ -42,7 +42,11 @@ Post-MVP
 
 ## Wireframes
 
-- [Wireframe](https://cloudinary.com/console/c-76b6b3e60bd4c972595a95a95664ff/media_library/folders/acbff7731b5f023dfdaa7cf05ac24c88)
+- [Home Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627794/capstone/IMG_5830_earpug.heic)
+- [Parks Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627787/capstone/IMG_5832_snlcxe.heic)
+- [Discover Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627798/capstone/IMG_5834_dlzcdk.heic)
+- [Plan Your Visit Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627791/capstone/IMG_5833_w7erk4.heic)
+- [About Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627790/capstone/IMG_5831_tf9z6k.heic)
 
 
 ## MVP
