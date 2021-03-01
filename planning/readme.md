@@ -21,7 +21,6 @@ MVP
 | User Story | Frontend | Backend |
 |---|---|---|
 | User logs in | Data request via form | Get route /:username in the username db |
-
 | User moves to Parks route | Data request for all parks | Get route /parks in the Parks db |
 | User selects individual park | Data request for targeted park | Get route /parks/:id in Parks db|
 | User completes search by state | Data request for all parks by targeted state | Get route /parks/:state_id db |
