@@ -42,11 +42,11 @@ Post-MVP
 
 ## Wireframes
 
-- ![Home Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627794/capstone/IMG_5830_earpug.heic)
-- [Parks Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627787/capstone/IMG_5832_snlcxe.heic)
-- [Discover Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627798/capstone/IMG_5834_dlzcdk.heic)
-- [Plan Your Visit Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627791/capstone/IMG_5833_w7erk4.heic)
-- [About Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614627790/capstone/IMG_5831_tf9z6k.heic)
+- ![Home Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614631042/capstone/IMG_5830_sjbj6f.jpg)
+- ![Parks Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614631055/capstone/IMG_5832_k5flc7.jpg)
+- ![Discover Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614631026/capstone/IMG_5834_hcqnbr.jpg)
+- ![Plan Your Visit Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614631051/capstone/IMG_5833_zsmhml.jpg)
+- ![About Page](https://res.cloudinary.com/decffa3wj/image/upload/v1614631044/capstone/IMG_5831_oehbmi.jpg)
 
 
 ## MVP
