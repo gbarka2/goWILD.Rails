@@ -86,6 +86,7 @@ Post-MVP
 | MVP TOTAL |  | 31hr |  |
 
 | Post-MVP Task | Priority | EstimatedTime | ActualTime |
+|---|---|---|---|
 | Enable search by activities | L | 6hr |  |
 | Campground reservation routes | L | 3hr |  |
 | Visitor tips routes | L | 3hr |  |
