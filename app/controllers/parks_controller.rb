@@ -5,12 +5,15 @@ class ParksController < ApplicationController
   def index
     @parks = Park.all
 
-    render json: @parks
+    render json: @parks.to_json(include: :addresses)
+    # render json: @parks.to_json(include: :fees)
   end
 
   # GET /parks/1
   def show
-    render json: @park
+
+    render json: @park.to_json(include: [:addresses, :fees])
+    # render json: @parks.to_json(include: :fees)
   end
 
   # POST /parks
@@ -46,6 +49,6 @@ class ParksController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def park_params
-      params.require(:park).permit(:full_name, :description, :latitude, :longitude, :lat_long, :state, :phone, :email, :directions, :weather, :name, :park_type)
+      params.require(:park).permit(:full_name, :description, :latitude, :longitude, :lat_long, :state, :phone, :email, :directions, :weather, :name, :park_type, :addresses, :fees)
     end
 end
