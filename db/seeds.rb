@@ -5159,4211 +5159,1419 @@ Image.create([
     park_id: 42
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
+    credit: "Mitch Smith",
+    title: "Hot Water Cascade",
+    alt_text: "Misty water evaporating from a cascade",
+    caption: "The Arlington Lawn holds a beautiful thermal cascade.",
+    url: "https://www.nps.gov/common/uploads/structured_data/C13C707D-B623-9D92-5CF6C917AA1B9078.jpg",
     park_id: 43
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
+    credit: "Mitch Smith",
+    title: "Bathhouse Row From The Waters",
+    alt_text: "A sky view of large bathhouse buildings",
+    caption: "The Waters offers a great view of bathhouse row.",
+    url: "https://www.nps.gov/common/uploads/structured_data/C11CC032-E6FC-33A3-A850BBC58A6DBD3C.jpg",
     park_id: 43
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
+    credit: "NPS Photo",
+    title: "Take A Hike!",
+    alt_text: "Close up of a hiking boot on the trail a hiker in the distance",
+    caption: "Hot Springs National Park has 26 miles of hiking trails to explore.",
+    url: "https://www.nps.gov/common/uploads/structured_data/23BF1E9D-A964-3BFE-BDEBFB703DE79463.jpeg",
     park_id: 43 
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
+    credit: "NPS photo",
+    title: "Hiker at bridge Whittington Park Creek",
+    alt_text: "Hiker sits at the edge of the creek, with a bridge in the background",
+    caption: "Visitors hike and enjoy the cool shady places in the park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/23D55284-B7DD-D42F-4689A73DDA1DC0B9.jpg",
     park_id: 43
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
+    credit: "NPS photo Mark David Artist In Residence 2015",
+    title: "Bridge with fall colors",
+    alt_text: "Stone bridge surrounded by brilliant yellow and green leaves",
+    caption: "The park is beautiful year round.",
+    url: "https://www.nps.gov/common/uploads/structured_data/243E69E8-B5AB-6E14-DDD7BF3A6FEFE437.jpg",
     park_id: 43
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "Rafi Wilkinson",
+    title: "Sunset at Indiana Dunes National Park",
+    alt_text: "Sunset on Lake Michigan",
+    caption: "Sunset at Indiana Dunes National Park",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7E501C-1DD8-B71B-0B78424BE2B09114.jpg",
+    park_id: 44
+  },
+  {
+    credit: "Jeff Manuszak",
+    title: "Mnoké Prairie in Bloom",
+    alt_text: "Prairie in Bloom",
+    caption: "Mnoké Prairie.",
+    url: "https://www.nps.gov/common/uploads/structured_data/93317C03-A0F6-3587-DEFBDE06D879DF16.jpg",
+    park_id: 44
+  },
+  {
+    credit: "NPS Collection",
+    title: "Central Beach",
+    alt_text: "Central Beach",
+    caption: "Central Beach",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7E4345-1DD8-B71B-0B1054DD51E7798B.jpg",
+    park_id: 44
+  },
+  {
+    credit: "Jeff Manuszak",
+    title: "Sunset at Lake View",
+    alt_text: "Sunset at Lake View",
+    caption: "Sunset at Lake View",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7E4682-1DD8-B71B-0B750F94FDF9DFDC.jpg",
+    park_id: 44
+  },
+  {
+    credit: "Jeff Manuszak",
+    title: "Peace on Lake Michigan",
+    alt_text: "Peace on Lake Michigan",
+    caption: "Peace on Lake Michigan",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7E4819-1DD8-B71B-0B1F99B8AFB5C9AA.jpg",
+    park_id: 44
+  },
+  {
+    credit: "NPS Photo / Paul Brown",
+    title: "Aerial View of Belle Harbor",
+    alt_text: "Aerial View of Belle Harbor",
+    caption: "One of the best ways to view Isle Royale's land and water is from the air.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AC355-1DD8-B71B-0B9C2F07853F39F1.jpg",
+    park_id: 45
+  },
+  {
+    credit: "NPS Photo / Paul Brown",
+    title: "Bull Moose",
+    alt_text: "Young bull moose browsing for food",
+    caption: "Moose are one of the few mammal species who have journeyed to the island.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AC4C1-1DD8-B71B-0B8592CA6634ABEE.jpg",
+    park_id: 45
+  },
+  {
+    credit: "NPS Photo / Paul Brown",
+    title: "Rock of Ages Lighthouse",
+    alt_text: "Aerial view of Rock of Ages Lighthouse",
+    caption: "Rock of Ages is one of four lighthouses at Isle Royale National Park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AC638-1DD8-B71B-0BD28B3407821A15.jpg",
+    park_id: 45
+  },
+  {
+    credit: "NPS Photo / Paul Brown",
+    title: "Winter Ice Floes",
+    alt_text: "Ice floes float in a harbor",
+    caption: "Isle Royale National Park is closed in winter, with the exception of a few visiting researchers.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AC799-1DD8-B71B-0B4E94DE10F014E5.jpg",
+    park_id: 45
+  },
+  {
+    credit: "NPS Photo / Paul Brown",
+    title: "Aurora Borealis Over Isle Royale National Park",
+    alt_text: "Diverse colored Aurora Borealis in the night sky",
+    caption: "Isle Royale National Park's dark skies make it an excellent location to enjoy nighttime phenomenon, like the Aurora Borealis.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AC8F5-1DD8-B71B-0B661B7FF90F5407.jpg",
+    park_id: 45
+  },
+  {
+    credit: "NPS/Brad Sutton",
+    title: "Lost Horse Valley",
+    alt_text: "Joshua trees grow on a flat plain with boulder outcrops and mountains in the distance",
+    caption: "Take in views of the park's iconic Joshua trees and rock outcrops in Lost Horse Valley.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85EF02-1DD8-B71B-0B467F2B5F7483AC.jpg",
+    park_id: 46
+  },
+  {
+    credit: "NPS/Hannah Schwalbe",
+    title: "Hidden Valley Hiker",
+    alt_text: "hiker looks over Hidden Valley",
+    caption: "Scrambling to the top of boulders in Joshua Tree can get you a great view.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85E84D-1DD8-B71B-0B188E7820D60F14.jpg",
+    park_id: 46
+  },
+  {
+    credit: "NPS/Brad Sutton",
+    title: "Joshua Tree Sunset",
+    alt_text: "a fiery sky behind the silhouette of a Joshua tree",
+    caption: "The wide-open desert of Joshua Tree National Park makes for stunning sunsets.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85E941-1DD8-B71B-0BCAA9F8A0BD4E0F.jpg",
+    park_id: 46
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Kurt Moses",
+    title: "Joshua Tree Junior Ranger",
+    alt_text: "a little girl smiles while wearing a Jr. Ranger hat and badge",
+    caption: "Kids of all ages can take part in Joshua Tree National Park's Junior Ranger program.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85EC5C-1DD8-B71B-0B3B00469411625A.jpg",
+    park_id: 46
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Kurt Moses",
+    title: "Historic Keys Ranch",
+    alt_text: "an historic wood house seen through the missing windshield of an old, rusty vehicle",
+    caption: "The historic Keys Ranch can be visited only on a ranger-guided tour.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85EA46-1DD8-B71B-0B28B646B53F0C37.jpg",
+    park_id: 46
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/David Jacob",
+    title: "Salmon jumping at Brooks Falls",
+    alt_text: "salmon jumping at waterfall",
+    caption: "Each year, 200,000 to 400,000 sockeye salmon jump Brooks Falls.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A0FDB-1DD8-B71B-0B8933ACA92FE6B3.jpg",
+    park_id: 47
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/David Jacob",
+    title: "Bear catching jumping salmon",
+    alt_text: "Bear standing at the edge of a waterfall while a salmon is leaping towards it.",
+    caption: "In July, brown bears often stand on the lip of Brooks Falls to try to catch leaping salmon.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A32DB-1DD8-B71B-0B37F66E9D0832AF.jpg",
+    park_id: 47
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Bryanna Plog",
+    title: "Bear family walks near sleeping bear",
+    alt_text: "Three bears walk near a sleeping bear",
+    caption: "Salmon streams in Katmai attract high numbers of brown bears.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A3473-1DD8-B71B-0B65158B5807CE0D.jpg",
+    park_id: 47
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Roy Wood",
+    title: "Mount Katmai caldera",
+    alt_text: "lake inside of an ash and glacier covered volcano",
+    caption: "Mount Katmai's summit collapsed during the 1912 Novarupta-Katmai eruption. Today, the caldera is filled with a deep lake.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A35BF-1DD8-B71B-0BB1644AA6CF4C8B.jpg",
+    park_id: 47
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Michael Fitz",
+    title: "sedge meadows and volcanoes at Hallo",
+    alt_text: "meadow in foreground and snow capped volcanoes on the horizon",
+    caption: "Glacially clad volcanoes loom over the sedge meadows of Hallo Bay",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A3776-1DD8-B71B-0BB94C2392CD5B01.jpg",
+    park_id: 47
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "USGS/Bruce Molnia",
+    title: "Bear Glacier Aerial",
+    alt_text: "aerial image of Bear Glacier",
+    caption: "Bear Glacier is the largest of nearly 40 glaciers that flow from the Harding Icefield.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C798EAB-1DD8-B71B-0BC4BEFB197F2C90.jpg",
+    park_id: 48
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Aialik Bay Kayakers",
+    alt_text: "kayakers in front of a tidewater glacier",
+    caption: "Kayakers enjoy the spectacular scenery in the fjords in Aialik Bay.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7DE352-1DD8-B71B-0B35831ADF254DE0.jpg",
+    park_id: 48
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/Thoresen",
+    title: "Humpback Whale Breach",
+    alt_text: "a humpback whale breaches",
+    caption: "A humpback whale breaches in Kenai Fjords National Park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7DE50D-1DD8-B71B-0B23431BC04ACB33.jpg",
+    park_id: 48
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "USGS/Bruce Molnia",
+    title: "Above Bear Glacier",
+    alt_text: "aerial view of Bear Glacier from Harding Icefield",
+    caption: "Flightseeing over the Harding Icefield provides amazing opportunities to view glaciers, like Bear Glacier, from a different perspective.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7DE88C-1DD8-B71B-0B3F02FD7F30F1AF.jpg",
+    park_id: 48
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/Jim Pfeiffenberger",
+    title: "Exit Glacier View",
+    alt_text: "visitors at accessible overlook of Exit Glacier and Exit Creek.",
+    caption: "A stroll to Glacier View provides a nice overlook of Exit Glacier as part of a 1 mile accessible walk.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7DEEE0-1DD8-B71B-0B7B85B29F07C371.jpg",
+    park_id: 48
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Kobuk Sand Dunes",
+    alt_text: "sun setting on sand dunes",
+    caption: "The setting sun casts shadows of black spruce on the dunes and colors the water of Ahnewetut Creek a deep blue.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A1214-1DD8-B71B-0B00D823BD9BF4CF.jpg",
+    park_id: 49
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Mountains as Far as the Eye Can See",
+    alt_text: "aerial view of snow capped mountains",
+    caption: "The peaks of the Baird Mountains stretch far into the distance and are so remote that many of them have not been named.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A134A-1DD8-B71B-0B3C2789713B6113.jpg",
+    park_id: 49
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Left Behind",
+    alt_text: "Caribou bone sitting in the sand",
+    caption: "Caribou migrate across the Great Kobuk Sand Dunes, heading north in the summer and south in the fall. Some survive and some don't, which is a reality of life.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A147D-1DD8-B71B-0BCC5182A7F0918A.jpg",
+    park_id: 49
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Lone Rangifer tarandus",
+    alt_text: "Single caribou with antlers in velvet",
+    caption: "A single caribou of the 240,000+ strong Western Arctic herd on its fall migration south across Kobuk Valley National Park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A1563-1DD8-B71B-0B76572CC32EBD25.jpg",
+    park_id: 49
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Kobuk Locoweed",
+    alt_text: "pink flower growing in sand",
+    caption: "xytropis kobukensis (Kobuk Locoweed) is a member of the pea family and adds a splash of pink to the sand dunes. The blossoms have that typical pea/bean flower shape that many gardeners know.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A168D-1DD8-B71B-0B5167863DD39B57.jpg",
+    park_id: 49
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / J.Mills",
+    title: "Telaquana Lake",
+    alt_text: "A colorful sky, an island with spruce trees, and mountains in the background reflect in a calm lake",
+    caption: "A number of glacier fed lakes pepper the western boundary of the Chigmit and Neacola mountains like a string of spectacular turquoise gems.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AA70A-1DD8-B71B-0BCA87C6E2CA136E.jpg",
+    park_id: 50
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / James Kramer",
+    title: "Lake Clark",
+    alt_text: "Photo of blue sky with fluffy white clouds reflect in calm lake with mountains in the background.",
+    caption: "The park's namesake lake is the largest lake by volume in the National Park Service.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A9F9E-1DD8-B71B-0B6CEC8EF3F377DA.jpg",
+    park_id: 50
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Karen Smigielski",
+    title: "Tanalian Falls",
+    alt_text: "Waterfall surrounded by forest in fall foiliage and mountains in the background.",
+    caption: "The park protects thousands of waterfalls including Tanalian Falls, which is a popular day hike destination from the town of Port Alsworth.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AA462-1DD8-B71B-0BB13D97381C04B0.jpg",
+    park_id: 50
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Paige Spencer",
+    title: "Redoubt Volcano",
+    alt_text: "Photo of a stratovolcano flanked with glaciers towering over a river valley.",
+    caption: "Lake Clark is a land of fire and ice. Active volcanism and retreating glaciers created and continue to shape the peaks, moraines, and river systems in the Chigmit and Neacola Mountains.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AA140-1DD8-B71B-0BE3ECC0A8EE0DE5.jpg",
+    park_id: 50
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Chuck Lindsay",
+    title: "Tanaina Glacier",
+    alt_text: "photo of large alpine glacier",
+    caption: "Perenial snow and glacial ice covers ~1,250 square miles, or 20% of Lake Clark National Park and Preserve.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A9D02-1DD8-B71B-0B154E93FCC5D7F9.jpg",
+    park_id: 50
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "A Fisherman's Paradise",
+    alt_text: "A fisherman casts a line from a boat below a snow-dotted volcanic peak.",
+    caption: "Manzanita Lake offers spectacular catch-and-release fishing in the shadow of volcanoes.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C874252-1DD8-B71B-0B6BC0D39B9A51C2.jpg",
+    park_id: 51
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Bumpass Hell",
+    alt_text: "A boardwalk passes through a colorful, steaming hydrothermal basin.",
+    caption: "A 3-mile round-trip trail leads to Bumpass Hell, the largest of the park's hydrothermal areas.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C873B2E-1DD8-B71B-0B28C044BC4B9DC6.jpg",
+    park_id: 51
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Amanda Sweeney",
+    title: "Hat Creek",
+    alt_text: "Golden grasses edge a pond reflecting a snow-dusted peak",
+    caption: "Lassen Volcanic's rugged volcanic landscape is softened by numerous meadows, lakes, and creeks.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C8739BB-1DD8-B71B-0B8336A925B1A6C7.jpg",
+    park_id: 51
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Brokeoff Panorama",
+    alt_text: "Two hikers sit on a mountain top with a view of multiple peaks, dotted with patches of snow",
+    caption: "Over 150 miles of trails let you choose your adventure.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C873CC3-1DD8-B71B-0B076FC2806DF140.jpg",
+    park_id: 51
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Deep Blue",
+    alt_text: "A volcanic peak rises above a tree-lined, deep blue lake.",
+    caption: "Lassen Peak stands out boldly between the bright blue sky and the sapphire hue of Lake Helen.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C873E3A-1DD8-B71B-0BBD47F2E441D2F7.jpg",
+    park_id: 51
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Fog at Mammoth Cave Entrance",
+    alt_text: "A layer of fog hangs over a small group gathered to enter Mammoth Cave on a summer day.",
+    caption: "A layer of mist hangs over a small tour group gathered at the Historic Entrance of Mammoth Cave on a summer day - it both delights the skin and fogs spectacles, and gives a sense that one is on the threshold of another world.",
+    url: "https://www.nps.gov/common/uploads/structured_data/70A30ACF-1DD8-B71B-0B15BF86F0757385.jpg",
+    park_id: 52
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/Tres Seymour",
+    title: "Green River in Mammoth Cave National Park",
+    alt_text: "A kayaker paddles up the languid waters of the Green River in Mammoth Cave National Park.",
+    caption: "More than 30 miles of the Green and Nolin Rivers course through Mammoth Cave NP, representing one of the most biologically diverse river systems in the Eastern United States. Their languid waters are a magnet for canoeist, kayakers and anglers.",
+    url: "https://www.nps.gov/common/uploads/structured_data/703C9789-1DD8-B71B-0B835EDD04EB080E.jpg",
+    park_id: 52
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Wonder in Mammoth Cave",
+    alt_text: "A girl peers wonderingly into the shadows of Mammoth Cave.",
+    caption: "Mammoth Cave's shadows have beckoned the explorer deep within its visitors for geneerations, asking the question \"Where does that lead? What lies in the dark places?\" The questions remain as compelling today as they did for the first explorers.",
+    url: "https://www.nps.gov/common/uploads/structured_data/7023B352-1DD8-B71B-0B2FCCEA04639744.jpg",
+    park_id: 52
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Mammoth Cave - Dripstone Wall",
+    alt_text: "Dripstone formations create a panoply of textures in the Frozen Niagara section of Mammoth Cave",
+    caption: "Dripstone formations create a panoply of textures in the Frozen Niagara section of Mammoth Cave as slowly dripping water redeposits dissolved limestone over the course of centuries. Image is a panoramic composite.",
+    url: "https://www.nps.gov/common/uploads/structured_data/700F5F4C-1DD8-B71B-0BEB7EF216AFBE1D.jpg",
+    park_id: 52
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Broadway in Mammoth Cave",
+    alt_text: "A ranger explains the cave to visitors in the vast expanse of the passage called Broadway.",
+    caption: "A ranger explains Mammoth Cave in the vast passage known as Broadway. Rotunda, one of the cave's largest rooms, is just ahead.",
+    url: "https://www.nps.gov/common/uploads/structured_data/6FE16EEF-1DD8-B71B-0BA9538F9BF50B2F.jpg",
+    park_id: 52
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Spruce Tree House",
+    alt_text: "Within a cliff dwelling",
+    caption: "Spruce Tree House, Mesa Verde's third largest and best preserved cliff dwelling",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C0874-1DD8-B71B-0B223C1FF22A5351.jpg",
+    park_id: 53
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Square Tower House",
+    alt_text: "View of cliff dwelling from above a canyon",
+    caption: "Square Tower House from overlook along the Mesa Top Loop.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C04EC-1DD8-B71B-0BD94A784A808041.jpg",
+    park_id: 53
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Balcony House",
+    alt_text: "A cliff dwelling within a cliff alcove seen from across a canyon",
+    caption: "View of Balcony House from the Soda Canyon Overlook.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C0371-1DD8-B71B-0B50861380661D68.jpg",
+    park_id: 53
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Step House",
+    alt_text: "Park visitors visiting a cliff dwelling",
+    caption: "Visitors enjoying Step House, on Wetherill Mesa",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C0207-1DD8-B71B-0B74281D9C40EAB9.jpg",
+    park_id: 53
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Cliff Palace",
+    alt_text: "Large cliff dwelling in cliff alcove",
+    caption: "Cliff Palace, Mesa Verde's Largest Cliff Dwelling.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C0089-1DD8-B71B-0BC397BA671C0616.jpg",
+    park_id: 53
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "JD Hascup Photo",
+    title: "Silver Forest Sunset",
+    alt_text: "A purple and pink streaked sky over a mountain peak and forested valley.",
+    caption: "The Silver Forest Trail at Sunrise features spectacular views of Mount Rainier and the White River valley.",
+    url: "https://www.nps.gov/common/uploads/structured_data/49F34094-B893-7DD6-5AE0F0220724B0EF.jpg",
+    park_id: 54
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Climbing Mount Rainier",
+    alt_text: "Climber on glacier steps downward with icy crags in background",
+    caption: "Summiting Mount Rainier involves climbing a volcano, scaling glaciers, dealing with high elevations and much more. Almost 10,000 people a year attempt to summit.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7CEEF2-1DD8-B71B-0B9F3B666327E5D1.jpg",
+    park_id: 54
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Emily Brouwer",
+    title: "Giants of the Old-Growth Forest",
+    alt_text: "Towering cedars and douglas-firs reach skyward while a beam of sun breaks through the canopy.",
+    caption: "With some of the few remaining old-growth forests in the Cascade Mountains, Mount Rainier National Park protects native plants great and small in places like the Grove of the Patriarchs.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C6C47-1DD8-B71B-0BFF9108D08A7FD3.jpg",
+    park_id: 54
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Steve Redman",
+    title: "Kids Hiking Through Wildflower Meadow",
+    alt_text: "Two children hike on trail through wildflower meadow with Mount Rainier above them",
+    caption: "Enjoying the outdoors through recreation is a big part of many visitors' experiences.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7CECB5-1DD8-B71B-0B54548D95910CF4.jpg",
+    park_id: 54
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/ K. Loving",
+    title: "Wildflower Meadow Along the Wonderland Trail",
+    alt_text: "Purple lupine and white bistort bloom in a meadow alongside a sign for the Wonderland Trail.",
+    caption: "Both the Wonderland Trail and subalpine meadows encircle Mount Rainier. Summertime blooms splatter the hillsides with color.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C6A93-1DD8-B71B-0BA75B16C5FA3690.jpeg",
+    park_id: 54
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Mount Rushmore and the Avenue of Flags",
+    alt_text: "Visitors walking along the Avenue of Flags with Mount Rushmore in the background",
+    caption: "Visitors walking along the Avenue of Flags with Mount Rushmore in the background.",
+    url: "https://www.nps.gov/common/uploads/structured_data/7F64FD4B-FBD4-5B1B-3492A37C207C73A4.jpg",
+    park_id: 55
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Mount Rushmore Through the Trees",
+    alt_text: "Mount Rushmore viewed from a distance through ponderosa pine trees.",
+    caption: "Mount Rushmore viewed from a distance through ponderosa pine trees.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C7FCF-1DD8-B71B-0B1C13F43534232D.jpg",
+    park_id: 55
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Closeup of Mount Rushmore",
+    alt_text: "Closeup photo of Mount Rushmore under a bright blue sky.",
+    caption: "Closeup photo of Mount Rushmore under a bright blue sky.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C8154-1DD8-B71B-0B4E439C3CE14388.jpg",
+    park_id: 55
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Mount Rushmore With Talus Slope",
+    alt_text: "Mount Rushmore above the talus slope, where rock removed from the mountain fell",
+    caption: "Mount Rushmore above the talus slope, where rock removed from the mountain fell.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C82BE-1DD8-B71B-0BB0E19046FD1F17.jpg",
+    park_id: 55
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Mount Rushmore At Night",
+    alt_text: "Mount Rushmore illuminated under a darkening evening sky",
+    caption: "Mount Rushmore illuminated under a darkening evening sky.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7C8502-1DD8-B71B-0B147A5B029A69D7.jpg",
+    park_id: 55
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "National Mall West",
+    alt_text: "Aerial of the west side of National Mall and Memorial Parks",
+    caption: "Honoring our Nation",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C821F64-1DD8-B71B-0B7C29BA3E4F549E.jpg",
+    park_id: 56
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "National Mall Center",
+    alt_text: "Aerial View of the Washington Monument and sites north",
+    caption: "From Founding Father to Presidents Park",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C8222D8-1DD8-B71B-0B12C76CA8403035.jpg",
+    park_id: 56
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "National Mall East",
+    alt_text: "Aerial View of the East End of the National Mall",
+    caption: "From Founding Father to Capitol",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C82245D-1DD8-B71B-0B4C36FA70C6ECE4.jpg",
+    park_id: 56
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Michael Larson",
+    title: "Back side of Pola Island from Tuafanua Trail",
+    alt_text: "Tuafanua Trail",
+    caption: "Pola Island rises over 400 feet straight out of the ocean off Tutuila. A short walk from Vatia village, Pola is an ideal nesting site for many species of seabirds.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C84F643-1DD8-B71B-0BC6F3EA2E1F58AB.jpg",
+    park_id: 57
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Michael Larson",
+    title: "Ta'u Island",
+    alt_text: "Ta'u Island",
+    caption: "Si'u Point is a good place to view the south coast of Ta'u. some of the tallest sea cliffs in the world stairstep over 3,000 feet to the summit of Lata Mountain.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C84F785-1DD8-B71B-0B93723B92528909.jpg",
+    park_id: 57
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Eymard Bangcoro",
+    title: "Ofu Island",
+    alt_text: "Ofu Island",
+    caption: "With a secluded sandy beach and fringing reef, Ofu unit of the park is an ideal place to snorkel or simply enjoy the solitude. The island of Olosega rises in the distance.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C84F8DB-1DD8-B71B-0BD434E17818331B.jpg",
+    park_id: 57
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Eymard Bangcoro",
+    title: "King Fisher bird",
+    alt_text: "King Fisher bird",
+    caption: "Birds are the most abundant and diverse animals in American Samoa, as they are on most oceanic islands.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C84FA18-1DD8-B71B-0BD1AEF488A50F9F.jpg",
+    park_id: 57
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS photo",
+    title: "Manhattan skyline as seen from Governors Island National Monument",
+    alt_text: "Manhattan skyline as seen from Governors Island National Monument",
+    caption: "National Parks of New York Harbor includes ten national parks, including six within Manhattan alone.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C851C36-1DD8-B71B-0B0CDC66CCAD1F18.jpg",
+    park_id: 58
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS photo",
+    title: "General Grant National Memorial at dusk in midwinter",
+    alt_text: "General Grant National Memorial at dusk in midwinter",
+    caption: "The largest mausoleum in North America pays tribute to Civil War general and U.S. President Ulysses S. Grant, who is entombed here with his wife Julia.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C851FAA-1DD8-B71B-0BB559E3777D5603.jpg",
+    park_id: 58
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS photo",
+    title: "Battery Weed, Fort Wadsworth, Staten Island",
+    alt_text: "Battery Weed, Fort Wadsworth, Staten Island",
+    caption: "Gateway National Recreation Area covers two states and three New York City boroughs. Several of its sites are former military bases, such as Fort Wadsworth.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C8522DA-1DD8-B71B-0B633AD197DD157A.jpg",
+    park_id: 58
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS photo",
+    title: "Statue of Liberty looking ahead",
+    alt_text: "Statue of Liberty looking ahead",
+    caption: "Statue of Liberty National Monument also includes Ellis Island Immigration Museum.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85246C-1DD8-B71B-0B4219F690AD949E.jpg",
+    park_id: 58
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS photo",
+    title: "African Burial Ground National Monument",
+    alt_text: "African Burial Ground National Monument",
+    caption: "A vast cemetery for enslaved and free Africans, forgotten since the 1790s, was rediscovered in 1991.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C8527D9-1DD8-B71B-0B9734907AE388BC.jpg",
+    park_id: 58
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "Gary Hartley",
+    title: "Waterfall on Dowdy Creek",
+    alt_text: "waterfall and stream",
+    caption: "Waterfall on Dowdy Creek.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7E96DD-1DD8-B71B-0B515196575EBFE2.jpg",
+    park_id: 59
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS photo/Dave Bieri",
+    title: "Rhododendron at Turkey Spur",
+    alt_text: "pink rhododendron and view of the gorge and river",
+    caption: "View from Turkey Spur at Grandview.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7E95AB-1DD8-B71B-0BB9F0FCDF99420B.jpg",
+    park_id: 59
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "Gary Hartley",
+    title: "New River Gorge Bridge",
+    alt_text: "bridge spanning the river",
+    caption: "The New River Gorge Bridge spans across the New River.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7E8DAE-1DD8-B71B-0B9B0DDABB90EA30.jpg",
+    park_id: 59
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS photo/Carey Woods",
+    title: "Sandstone Falls",
+    alt_text: "waterfall spanning the river",
+    caption: "Sandstone Falls spans the New River",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7E91DA-1DD8-B71B-0B508B9CB06C681E.jpg",
+    park_id: 59
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS photo/Leah Perkowski-Sisk",
+    title: "Foggy morning",
+    alt_text: "fog and mountains",
+    caption: "Fog settles in the gorge.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7E9441-1DD8-B71B-0BED7246643E6693.jpg",
+    park_id: 59
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/D.Dixon",
+    title: "Stehekin - Looking down Lake Chelan",
+    alt_text: "boats on the water with mountains and trees surrounding",
+    caption: "Stehekin sits at the top of Lake Chelan, welcoming visitors to take a life at a slower pace.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A599D-1DD8-B71B-0BBDC12BEC5107B5.jpg",
+    park_id: 60
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/D. Dixon",
+    title: "Camping on Ross Lake",
+    alt_text: "Tents set up in a wooded area.",
+    caption: "Grab your tent, your sleeping bag, and adventurous soul and camp along Ross Lake.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A5B0D-1DD8-B71B-0B1104A95B7A2026.jpg",
+    park_id: 60
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/D. Dixon",
+    title: "Pelton Basin from Cascade Pass",
+    alt_text: "Trees surround the frame with glacier and mountains in the background",
+    caption: "Let the wow factor exceed your expectations while hiking Cascade Pass.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A5CC2-1DD8-B71B-0BC0F615561921EE.jpg",
+    park_id: 60
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/D. Dixon",
+    title: "Backpack the North Cascades",
+    alt_text: "Person with backpacking and climbing gear hikes on a trail.",
+    caption: "Explore the trails and backcountry camping and climbing in a landscape over 9,000 feet of vertical relief.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A5E46-1DD8-B71B-0B63BF950D3D6FB2.jpg",
+    park_id: 60
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/T. Baldwin",
+    title: "Jagged Mountain Peaks",
+    alt_text: "Jagged mountain peaks give way to glaciers.",
+    caption: "Explore jagged peaks crowned by more than 300 glaciers as you traverse the landscape.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A5FF6-1DD8-B71B-0BAAFB88D0A3DC08.jpg",
+    park_id: 60
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Mountain Sunset",
+    alt_text: "Hikers sit and watch the sun set behind snow-capped mountains",
+    caption: "Backpackers stop to enjoy a spectacular sunset in Olympic's high country.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7B1C43-1DD8-B71B-0B40240896925A49.jpg",
+    park_id: 61
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/Jon Preston",
+    title: "Roosevelt Elk",
+    alt_text: "A herd of elk crossing a river",
+    caption: "A herd of Roosevelt Elk cross a river in Olympic.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7B1DB4-1DD8-B71B-0B9DFEFDD398DB71.jpg",
+    park_id: 61
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/Bill Baccus",
+    title: "Tide Pools of the Olympic Coast",
+    alt_text: "Orange sea stars on a rocky coast",
+    caption: "Ocher sea stars rest on the rocks during a low tide on one of Olympic's beaches.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7B20CD-1DD8-B71B-0B9ACC145EFE6B99.jpg",
+    park_id: 61
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/Dave Turner",
+    title: "Hurricane Ridge",
+    alt_text: "Fresh snow atop the Olympic Mountains.",
+    caption: "A fresh layer of snow covers Hurricane Ridge in the Olympic Mountains.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7B1F36-1DD8-B71B-0B367264CE3B4EE8.jpg",
+    park_id: 61
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Olympic Forest",
+    alt_text: "Large trees and ferns",
+    caption: "Large trees and ferns inhabit the temperate forests of Olympic.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7B1A8C-1DD8-B71B-0B15D930BD8214F5.jpg",
+    park_id: 61
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Colorful Piece of Petrified Wood",
+    alt_text: "yellow and other colors in a piece of brightly colored petrified wood",
+    caption: "Iron oxide is one of the many trace minerals that create the color of petrified wood.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85CBE9-1DD8-B71B-0B8A5549DD3F55D1.jpg",
+    park_id: 62
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/Stuart Holmes",
+    title: "Mountain Lion Petroglyph",
+    alt_text: "a petroglyph pecked into sandstone that represents a mountain lion",
+    caption: "This ancient petroglyph of a mountain lion has become an icon of the park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85C4E0-1DD8-B71B-0B7C5271FF8EF1B7.jpg",
+    park_id: 62
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/Andrew V. Kearns",
+    title: "Jasper Forest",
+    alt_text: "many petrified logs lay on the ground and on eroded pedestals of clay",
+    caption: "Jasper Forest has some of the most colorful logs in the park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85C078-1DD8-B71B-0BD76F126AAEA9B3.jpg",
+    park_id: 62
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Grassland Rainbow",
+    alt_text: "A full rainbow arches over the open grassland",
+    caption: "A full rainbow arches over the open grassland.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85B78F-1DD8-B71B-0B45AC003E5EADA5.jpg",
+    park_id: 62
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Blue Mesa",
+    alt_text: "Summer storm clouds build behind the banded badlands of Blue Mesa",
+    caption: "Summer storm clouds build behind the banded badlands of Blue Mesa.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85B432-1DD8-B71B-0B6CAB3EAEB4B185.jpg",
+    park_id: 62
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Miners Falls",
+    alt_text: "High volume of water flowing at Miners Falls",
+    caption: "Water flowing over Miners Falls.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C8341A2-1DD8-B71B-0B37FDD8AC91FF3E.jpg",
+    park_id: 63
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photos",
+    title: "Pictured Rocks Cliffs along the Chapel / Mosquito Loop",
+    alt_text: "Mineral stained cliffs and collapsed rock arch along Lake Superior",
+    caption: "Springtime along the Chapel / Mosquito hiking loop.",
+    url: "https://www.nps.gov/common/uploads/structured_data/AA29365F-A10F-2EC8-5BEE4997CD0D0E2E.jpg",
+    park_id: 63
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photos",
+    title: "Kayaking Along the Pictured Rocks Cliffs",
+    alt_text: "Kayakers near Lovers Leap rock arch formation",
+    caption: "Kayakers near Lovers Leap",
+    url: "https://www.nps.gov/common/uploads/structured_data/A9CC49A2-C316-EC38-85BC38F20E10B1CB.jpg",
+    park_id: 63
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Ice Climbing",
+    alt_text: "Ice climber on a curtain of ice along the Pictured Rocks Escarpment",
+    caption: "Ice climbing is a popular winter activity.",
+    url: "https://www.nps.gov/common/uploads/structured_data/A9F20688-F13F-5BF1-018ACEF7BF029742.jpg",
+    park_id: 63
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photos",
+    title: "Battleship Row",
+    alt_text: "Three sections of cliffs sticking out into Lake Superior like the bows of battleships.",
+    caption: "15 miles of carved and colorful cliffs along the Lake Superior shoreine.",
+    url: "https://www.nps.gov/common/uploads/structured_data/AA08B449-C568-F494-E29104444DF1356E.jpg",
+    park_id: 63
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "National Park Service/Oscar Garcia",
+    title: "Balconies Caves",
+    alt_text: "Boulders in the Balconies Cave",
+    caption: "Balconies Cliffs as seen from the inside of the Balconies Caves",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C86A8CB-1DD8-B71B-0BAE8F7141CCBB1B.jpg",
+    park_id: 64
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "National Park Service/Oscar Garcia",
+    title: "Tree",
+    alt_text: "Light falling on tree",
+    caption: "Light illuminates a tree on a rainy day, seen from the Resurrection Wall.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C86AAE7-1DD8-B71B-0BA8BC5E5E895E98.jpg",
+    park_id: 64
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "National Park Service/Oscar Garcia",
+    title: "Tarantula",
+    alt_text: "A Tarantula walking",
+    caption: "A Tarantula crawls in the wild.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C86AE8B-1DD8-B71B-0B3ACEBC064CCC03.jpg",
+    park_id: 64
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/ Katherine Fielding",
+    title: "High Peaks with Condors Above",
+    alt_text: "A massive rock spire with California condors flying above the peak.",
+    caption: "The best views of Pinnacles' rocks can be enjoyed from the west side with almost no effort required.",
+    url: "https://www.nps.gov/common/uploads/structured_data/9CCA8ED3-ABB9-CB69-EF4B32F2ADACEC47.jpeg",
+    park_id: 64
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS",
+    title: "White House - Truman Balcony",
+    alt_text: "The White House and South Lawn",
+    caption: "The White House and South Lawn.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85DF8B-1DD8-B71B-0B3BCAF449D7D845.jpg",
+    park_id: 65
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS / Steve Olson",
+    title: "Surrounded by old-growth redwoods",
+    alt_text: "A visitor stands next to a forest of enormous red and brown colored trees.",
+    caption: "Walking though redwood forests is a beautiful experience.",
+    url: "https://www.nps.gov/common/uploads/structured_data/993D8B8C-0344-81FA-1E843595FB16A862.jpg",
+    park_id: 66
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Steven Olson",
+    title: "How Tall is that Redwood?",
+    alt_text: "Three adults stand and look curiously toward the tree tops",
+    caption: "From the forest floor we can only see about a third of any old redwood tree.",
+    url: "https://www.nps.gov/common/uploads/structured_data/CD347CAF-9229-5308-DA48F5AC29BE8394.jpg",
+    park_id: 66
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Howland Hill Road",
+    alt_text: "Redwood trees line a narrow dirt road",
+    caption: "With a small car, you can expericne close-up Redwoods along a century old, narrow road.",
+    url: "https://www.nps.gov/common/uploads/structured_data/13FB649C-1DD8-B71B-0B50D0E826025619.jpg",
+    park_id: 66
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Steve Olson",
+    title: "Fish-eye view of Redwood canopy",
+    alt_text: "View from forest floor looking straight up. Ferns as seen close up and redwood trunks meet",
+    caption: "The redwood forest is a complicated and beautiful series of habitats.",
+    url: "https://www.nps.gov/common/uploads/structured_data/CD69DD56-E050-4F4E-DDF622317D38250E.jpg",
+    park_id: 66
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / John Chao",
+    title: "Enderts Beach",
+    alt_text: "Two visitors looking at tidepools",
+    caption: "Tide pooling at Enderts Beach",
+    url: "https://www.nps.gov/common/uploads/structured_data/13C2D9FD-1DD8-B71B-0B3C56643E2A396D.jpg",
+    park_id: 66
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Ann Schonlau",
+    title: "Summer on the Tundra",
+    alt_text: "Yellow flowers bloom on tundra slopes with mountains in the background",
+    caption: "Old Man of the Mountain bloom on Rocky's alpine tundra.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7ECCCF-1DD8-B71B-0B4CB4FB1834BC1D.jpg",
+    park_id: 67
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Trail Ridge Road",
+    alt_text: "Road sweeps across open tundra with mountains in background.",
+    caption: "Trail Ridge Road, the highest continuous paved road in the United States, let's visitors experience Rocky's alpine tundra.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7ECE39-1DD8-B71B-0BAA393EB3C3A995.jpg",
+    park_id: 67
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Ann Schonlau",
+    title: "Elk in Moraine Park",
+    alt_text: "A herd of elk stand in a meadow.",
+    caption: "In the fall, Rocky's elk gather together in groups for the mating season.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7ECF9D-1DD8-B71B-0BDDCD1305CF6893.jpg",
+    park_id: 67
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Horseshoe Park",
+    alt_text: "The moon sets below mountain peaks at sunrise.",
+    caption: "While the moon sets, the sun rises at Horseshoe Park, one of Rocky's beautiful meadows.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7ED106-1DD8-B71B-0B08F084FEA51AE0.jpg",
+    park_id: 67
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Longs Peak",
+    alt_text: "Longs Peak, covered in snow, against dark moody clouds.",
+    caption: "Longs Peak towers above Rocky Mountain National Park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7ECB23-1DD8-B71B-0BC28A0330D6D8D6.png",
+    park_id: 67
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Saguaro Flowers",
+    alt_text: "Saguaro Flowers",
+    caption: "The flowering season in Saguaro National Park attracts visitors from all over the world.",
+    url: "https://www.nps.gov/common/uploads/structured_data/5CB8B2F6-01B7-9A50-73702A355E4136B8.jpg",
+    park_id: 68
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/ Bolyard",
+    title: "Flowering Fishhook Pincushion Cactus",
+    alt_text: "A flowering fishhook pincushion cactus",
+    caption: "Wildflower season at Saguaro National Park is at it's peak in the month of MArch. The Pincushion cactus, however, blooms April through August.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C858462-1DD8-B71B-0BB499810C61332C.jpg",
+    park_id: 68
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Coyote Pups",
+    alt_text: "Two coyote pups captured on a wilderness camera",
+    caption: "Saguaro National Park has a vast variety of wildlife, and with the help of wilderness cameras, can be photographed to help with studies and for visitors to learn about animals only seen by chance.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C858613-1DD8-B71B-0BEFB533FAB3FB55.jpg",
+    park_id: 68
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Saguaro National Park Lighting Storm",
+    alt_text: "Lightning strike captured on camera with saguaros in the background",
+    caption: "Saguaro deaths are usually attributed to natural weather conditions and other natural phenomena. Specifically, lightning strikes have been known to strike saguaros due to the large amount of water stored within their fleshy tissue.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C85873C-1DD8-B71B-0BA5D81599611142.jpg",
+    park_id: 68
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Group of Regal Horned Lizards",
+    alt_text: "A group of Phrynosoma solare, or regal horned lizards",
+    caption: "Regal horned lizards are one of many reptiles in the park, who have adapted to living in the harsh desert environment. Information on how different species survive can be found on the park's website, visitor center, or through our many programs offered.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C858AB6-1DD8-B71B-0B0F6C0A56410894.jpg",
+    park_id: 68
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Rick Cain",
+    title: "Kings Canyon",
+    alt_text: "A deep canyon with a forested floor and steep granite cliffs",
+    caption: "The Glaciers carved the Kings Canyon's steep granite cliffs, leaving a wide U-shaped valley.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A250B-1DD8-B71B-0BCF61A89A8B2970.jpg",
+    park_id: 69
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Rick Cain",
+    title: "The Tablelands",
+    alt_text: "A steep granite slope leads from forest to a bare alpine landscape",
+    caption: "Just above Lodgepole Valley, the trail to the Watchtower offers views above the treeline.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A2835-1DD8-B71B-0B468E834049FBE4.jpg",
+    park_id: 69
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Paul Johnson",
+    title: "Moro Rock",
+    alt_text: "A guardrail encircles people along a narrow walkway with wide views",
+    caption: "A historic stairway leads to the top of Moro Rock, offering views from foothills to peaks.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A2E1B-1DD8-B71B-0B4D563CB47FA60F.jpg",
+    park_id: 69
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Giant Sequoia in Winter",
+    alt_text: "A giant sequoia's reddish bark contrasts with the snow around it",
+    caption: "For those who don't mind icy roads, winter offers stunning views of sequoias in snow.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A301B-1DD8-B71B-0B8311F9B0AC4F69.jpg",
+    park_id: 69
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Rick Cain",
+    title: "Giant Forest Museum",
+    alt_text: "A rustic building is surrounded by giant sequoias",
+    caption: "Giant Forest Museum offers exhibits, park information, and a bookstore.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7A4E3C-1DD8-B71B-0B99ADC8D2689BDE.jpg",
+    park_id: 69 
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Neal Lewis",
+    title: "Adventure Awaits",
+    alt_text: "A man stands on a rocky outcrop overlooking the receding mountains.",
+    caption: "There are over 60 peaks with an elevation over 3,000 feet in Shenandoah.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C80B539-1DD8-B71B-0BEAAA4AC31E7D5B.jpg",
+    park_id: 70
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Katy Cain",
+    title: "Wonderful Waterfalls",
+    alt_text: "A man stands with his back facing us, looking at a waterfall.",
+    caption: "Dark Hollow Falls, at 70 feet, is our most visited waterfall.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C80B63B-1DD8-B71B-0BAC3145E329FC99.jpg",
+    park_id: 70
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Neal Lewis",
+    title: "Red-Bellied Woodpecker",
+    alt_text: "A close up shot of a Red-Bellied Woodpecker with a blurry teal background",
+    caption: "There are over 200 species of bird that call Shenandoah home",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C80B752-1DD8-B71B-0B0FAB718671DC3E.jpg",
+    park_id: 70
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Neal Lewis",
+    title: "Driving on Skyline Drive",
+    alt_text: "A road surrounded by fall foliage turns a curve around a small waterfall.",
+    caption: "There are 105 miles to explore on Skyline Drive.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C80B867-1DD8-B71B-0B328321E4420769.jpg",
+    park_id: 70
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Katy Cain",
+    title: "Find Yourself in Nature",
+    alt_text: "Looking up at a poplar stand canopy, which is turning yellow in fall.",
+    caption: "This poplar stand at mile 8 is a popular stop for visitors entering from the north entrance.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C80B989-1DD8-B71B-0B3A418BF2F78CF0.jpg",
+    park_id: 70
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Roland and Lisa Honeyman",
+    title: "Bison Trail",
+    alt_text: "a string of bison are silhouetted against the backdrop of hazy blue and yellow badlands",
+    caption: "Bison roam the badlands from top to bottom, surprising visitors with their agility and ability to cross even the most rugged terrain.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7941B3-1DD8-B71B-0B9F03744B164B38.jpg",
+    park_id: 71
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Teresina Wheaten",
+    title: "Raise a Ruckus",
+    alt_text: "two bull bison collide heads in a dusty battle for dominance",
+    caption: "In the summer, bull bison wage furious battles over the right to breed.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C794347-1DD8-B71B-0B5EB10134348DE1.jpg",
+    park_id: 71
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Mark Meyers",
+    title: "River Bend Overlook, North Unit",
+    alt_text: "A colorfully striped butte in the foreground overlooks a dark green badlands landscape",
+    caption: "The River Bend Overlook offers one of the most popular views in the park's North Unit.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C793AD5-1DD8-B71B-0B4A3C1BFA5B4C83.jpg",
+    park_id: 71
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Rolan and Lisa Honeyman",
+    title: "Fall Bugle",
+    alt_text: "A bugling bull elk and his harem of cows stand on the edge of a butte as the sunlight fades",
+    caption: "The ghostly bugles of bull elk can be heard wafting through the badlands in the fall.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C79484D-1DD8-B71B-0BD76E098C35DBFA.jpg",
+    park_id: 71
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Laura Thomas",
+    title: "Hoodoos",
+    alt_text: "a strange looking sand and rock formation stands in a prairie of brown grass",
+    caption: "Theodore Roosevelt described the badlands as \"so fantastically broken in form and so bizarre in color as to seem hardly properly to belong to this earth.\"",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C794D85-1DD8-B71B-0BE8C67C46D0233A.jpg",
+    park_id: 71
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "Judy Bucholz",
+    title: "Queen Angel Fish",
+    alt_text: "Queen Angel Fish",
+    caption: "A Beautiful Queen Angel Fish.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C79CEF6-1DD8-B71B-0BE2B171E1C38905.jpg",
+    park_id: 72
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Sunset Bench at Lind Point",
+    alt_text: "A sunset colors the horizon as seen from an overlook above the bay",
+    caption: "Lind Point Overlook is a perfect spot to enjoy a Virgin Islands sunset.",
+    url: "https://www.nps.gov/common/uploads/structured_data/1F2D548F-E180-9786-F4EA73BBE299B47F.jpg",
+    park_id: 72
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "Caroline Rogers",
+    title: "Four Stilts for the Bird Watchers",
+    alt_text: "Four Stilts in the Francis Bay Pond",
+    caption: "Four Stilts in the Francis Bay Pond.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C79D033-1DD8-B71B-0B99DCE07EFF9D58.jpg",
+    park_id: 72
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "Stephanie Guyer-Stevens",
+    title: "Sunset Paddle",
+    alt_text: "A Sunset Paddle",
+    caption: "A Sunset Paddle.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C79D149-1DD8-B71B-0B90F4272FF2EB3F.jpg",
+    park_id: 72
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Trunk Bay",
+    alt_text: "Turquoise water laps white sandy shore fringed with lush green vegetation.",
+    caption: "Renowned for its beauty, Trunk Bay is a visitor favorite.",
+    url: "https://www.nps.gov/common/uploads/structured_data/1F0534AF-91EB-443B-41760F790BE42778.jpg",
+    park_id: 72
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS /Dimse",
+    title: "Northern Lights",
+    alt_text: "Northern Lights over Voyageurs National Park waters",
+    caption: "Experience the Aurora Borealis at Voyageurs National Park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C8405EF-1DD8-B71B-0B42909E4E77E144.jpg",
+    park_id: 73
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Perry Lake",
+    alt_text: "overlooking a lake",
+    caption: "For peace and quiet explore the backcountry of the Kabetogama Peninsula",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C840728-1DD8-B71B-0BBDF500911CBD12.jpg",
+    park_id: 73
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "More Than Just Parks",
+    title: "Sunset in Voyageurs",
+    alt_text: "Orange tinted sky with islands scattered throughout the still lake.",
+    caption: "Enjoy a sunset in Voyageurs National Park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/C44E1879-9C3A-8F39-26AEBBEBB74FAD37.jpeg",
+    park_id: 73
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Anderson Bay",
+    alt_text: "rock cliffs along the lake",
+    caption: "Explore the unique geology of Voyageurs National Park and see our story unfold.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C840875-1DD8-B71B-0B2416D8B710421E.jpg",
+    park_id: 73
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Fall Colors",
+    alt_text: "orange, yellow, and green colors are showing in the fall foliage",
+    caption: "The mix of hardwood and conifers create inspiring scenic views especially in the fall.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C840A23-1DD8-B71B-0B19E7CC6CCDF7C7.jpg",
+    park_id: 73
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Sunset",
+    alt_text: "White dunes in foreground with sun setting behind mountain.",
+    caption: "Sunsets are one of the most popular times to visit White Sands. Visitors can experience sunset every day of the year.",
+    url: "https://www.nps.gov/common/uploads/structured_data/7CA16410-A412-1F05-2D92EB04EEB27980.jpg",
+    park_id: 74
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Aerial of Dunefield",
+    alt_text: "Aerial of white sand dunes.",
+    caption: "The dunes at White Sands cover 275 square miles of the Tularosa Basin.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7FE53E-1DD8-B71B-0BE4AEBECAB602AD.jpg",
+    park_id: 74
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Ripples",
+    alt_text: "Close up view of ripples on a dune",
+    caption: "The wind shapes and moves the dunes as a whole but gives each individual dune the texture of ripples.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7FE691-1DD8-B71B-0B21F94DBD31A965.jpg",
+    park_id: 74
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Fall Colors",
+    alt_text: "Cottonwood trees with orange leaves",
+    caption: "Fall is a wonderful time to visit as most of our plants with leaves change beautiful colors.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C819076-1DD8-B71B-0BBCE3AA4AF4D2CD.jpg",
+    park_id: 74
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Shaded Dunes",
+    alt_text: "Grey shadows on dunes.",
+    caption: "As the sun changes its angle through the sky it allows shadow to roll across the dunes.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C8191DC-1DD8-B71B-0BCE7EF56096C614.jpg",
+    park_id: 74
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo / Dan Roddy",
+    title: "Bison cow and calf",
+    alt_text: "a bison cow and calf on the prairie",
+    caption: "Several hundred bison roam the rolling prairie of Wind Cave National Park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7ACD12-1DD8-B71B-0BEF13804E4498FF.jpg",
+    park_id: 75
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Rankin Ridge view",
+    alt_text: "rolling hills of forest and prairie landscape",
+    caption: "Wind Cave National Park from Rankin Ridge, the park's highest point.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7ACE71-1DD8-B71B-0BBD14BFE8C0C468.jpg",
+    park_id: 75
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Boxwork",
+    alt_text: "criss-cross-patterned calcite fins of the cave feature boxwork",
+    caption: "Delicate fins of boxwork, a rare cave feature, in Elk's Room, Wind Cave.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7ACFE9-1DD8-B71B-0BA11E8BB9A0EE0D.jpg",
+    park_id: 75
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Wind Cave explorer",
+    alt_text: "a caver with pads and helmet crawling in the cave",
+    caption: "Each summer, the Wild Cave Tour offers the chance to get up close and personal with Wind Cave.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AD1AD-1DD8-B71B-0B7C9E1C79DA6F5C.jpg",
+    park_id: 75
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Prairie Dogs",
+    alt_text: "two prairie dogs watch from their burrow",
+    caption: "Prairie dog sightings are common throughout the park's prairies.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AD3B1-1DD8-B71B-0BC2F74D3D134758.jpg",
+    park_id: 75
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo",
+    title: "Yakutat coastal area",
+    alt_text: "Yakutat coastal area",
+    caption: "Yakutat coastal area.",
+    url: "https://www.nps.gov/common/uploads/structured_data/9DED0407-CD98-60E5-7965642A3CD2DA0D.jpg",
+    park_id: 76
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/ Bryan Petrtyl",
+    title: "Wrangell Mountains",
+    alt_text: "Four large snow covered mountains rise above dense forest into blue skies.",
+    caption: "The Wrangell Mountains dominate the view of the northern half of the park.   This range lies entirely within the park and reaches 16,390 ft (4,996 m) in height.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AB5F0-1DD8-B71B-0B0A0B409DEAB3ED.jpg",
+    park_id: 76
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/ Bryan Petrtyl",
+    title: "Logan Glacier",
+    alt_text: "A large glacier with stripes of different colored rock nestled in between barren mountain slopes.",
+    caption: "Wrangell-St. Elias National Park contains the greatest concentration of glaciers in North America.  More than 3000 glaciers covering over three million acres of land are found in the park.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AB2FD-1DD8-B71B-0BC380F8D220B0BA.jpg",
+    park_id: 76
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/ Bryan Petrtyl",
+    title: "Backpackers in Mentasta Mountains",
+    alt_text: "Two backpackers sitting in an alpine meadow with snowy mountains in the background",
+    caption: "Wrangell-St. Elias National Park is a backpacker's paradise.  A variety of routes take you into beautiful country, including the Mentasta Mountains.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AAC04-1DD8-B71B-0B6534785C41D6B5.jpg",
+    park_id: 76
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS Photo/ Neal Herbert",
+    title: "Icy Bay with Mt. St. Elias",
+    alt_text: "Glaciers loom over the ocean with large snowy mountains rising into blue skies",
+    caption: "Wrangell-St. Elias National Park contains a diversity of natural features.  Landscapes unique to the North American continent are common here.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7AAD63-1DD8-B71B-0BCE10FFD741A687.jpg",
+    park_id: 76
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Diane Renkin",
+    title: "Bison herd in a thermal area",
+    alt_text: "A herd of bison grazing through a barren and steaming thermal area.",
+    caption: "Bison near Mud Volcano",
+    url: "https://www.nps.gov/common/uploads/structured_data/8A869F85-FB2E-5EAF-11367EB2DB75963D.jpg",
+    park_id: 77
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
+    credit: "NPS/Peggy Olliff",
+    title: "Bighorn sheep",
+    alt_text: "Two bighorn sheep laying on the ground",
+    caption: "Two bighorn rams rest and chew their cud.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7D95DD-1DD8-B71B-0BC4FA19BD72F0EC.jpg",
+    park_id: 77
   },
   {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  valid  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
-  {
-    credit: "",
-    title: "",
-    alt_text: "",
-    caption: "",
-    url: "",
-    park_id: 
-  },
+    credit: "NPS/Jim Peaco",
+    title: "Old Faithful Geyser in winter",
+    alt_text: "A crowd in front of an erupting geyser during a snowy winter day.",
+    caption: "Winter is a magical time to watch Old Faithful Geyser erupt",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7D610A-1DD8-B71B-0BEF676112007818.jpg",
+    park_id: 77
+  },
+  {
+    credit: "NPS/Jim Peaco",
+    title: "Grand Prismatic Spring",
+    alt_text: "Brilliant blues and greens of a hot spring ringed by oranges, yellows, reds, and browns",
+    caption: "The bright colors found in Grand Prismatic Spring come from thermophiles—microorganisms that thrive in hot temperatures.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7D5920-1DD8-B71B-0B83F012ED802CEA.jpg",
+    park_id: 77
+  },
+  {
+    credit: "NPS/Jim Peaco",
+    title: "Wolf howling",
+    alt_text: "A wolf howls while standing on a snowy field",
+    caption: "Alpha male of the Canyon wolf pack",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7D3BD3-1DD8-B71B-0BB607F9BAAE1271.jpg",
+    park_id: 77
+  },
+  {
+    credit: "NPS / Christine Fey",
+    title: "El Capitan",
+    alt_text: "Massive cliff of El Capitan reflected in the Merced River",
+    caption: "El Capitan rises over 3,000 feet above the floor of Yosemite Valley.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C84FB6A-1DD8-B71B-0BC49E4A26E498FA.jpg",
+    park_id: 78
+  },
+  {
+    credit: "NPS / Cindy Jacoby",
+    title: "Half Dome",
+    alt_text: "Granite dome with trace amounts of snow",
+    caption: "Half Dome is one of the most recognizable granitic formations in the world.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C84CF74-1DD8-B71B-0B9C7FF83F7C68EB.jpg",
+    park_id: 78
+  },
+  {
+    credit: "NPS / Bob Roney",
+    title: "Rainbow over Half Dome",
+    alt_text: "A rainbow over a mountain in the distance",
+    caption: "A hike up to Sentinel Dome rewards people with great views of the landscape around them.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C84C6CF-1DD8-B71B-0B1C7CB883AA8FB1.jpg",
+    park_id: 78
+  },
+  {
+    credit: "NPS / Cindy Jacoby",
+    title: "Yosemite Falls on a Winter Morning",
+    alt_text: "Two tall waterfalls flowing down snow covered granite walls",
+    caption: "Yosemite Falls will sometimes only trickle at the end of summer, but wet winters can rejuvenate the flow.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C84CC4C-1DD8-B71B-0BE967E5E5D93F25.jpg",
+    park_id: 78
+  },
+  {
+    credit: "NPS Photo",
+    title: "Tenaya Lake at Sunset",
+    alt_text: "Mountains surrounding a lake",
+    caption: "Tenaya Lake is a favorite place to stop along the Tioga Road in summer.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C84C97E-1DD8-B71B-0B5DD2112C58C175.jpg",
+    park_id: 78
+  },
+  {
+    credit: "NPS Photo",
+    title: "Temples and Towers of the Virgin",
+    alt_text: "A towering sandstone rock formation",
+    caption: "The Temples and Towers can be seen from the back patio of the Human History Museum.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7F0098-1DD8-B71B-0B6C0191D7391384.jpg",
+    park_id: 79
+  },
+  {
+    credit: "NPS Photo",
+    title: "Zion Canyon Visitor Center",
+    alt_text: "Zion Canyon Visitor Center with a sandstone peak in the background",
+    caption: "The Zion Canyon Visitor Center sits near the sandstone peak known as the Watchman.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7EFF41-1DD8-B71B-0B50E940FE9F2658.jpg",
+    park_id: 79
+  },
+  {
+    credit: "NPS Photo",
+    title: "Mountain of the Sun",
+    alt_text: "A white and pink sandstone peak, lit up in the sunlight.",
+    caption: "The Mountain of the Sun in Zion Canyon.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7F0203-1DD8-B71B-0B2DCAE32B684884.jpg",
+    park_id: 79
+  },
+  {
+    credit: "NPS Photo",
+    title: "The Zion Narrows",
+    alt_text: "A narrow canyon with a gentle river flowing in the bottom",
+    caption: "The Zion Narrows is a challenging wilderness experience.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7F0366-1DD8-B71B-0B1C1F98A8C4E757.jpg",
+    park_id: 79
+  },
+  {
+    credit: "NPS Photo",
+    title: "Kolob Arch",
+    alt_text: "A large red sandstone arch high up on a cliff",
+    caption: "Deep in Zion's Wilderness sits Kolob Arch, one of the largest free-standing arches in the world.",
+    url: "https://www.nps.gov/common/uploads/structured_data/3C7F04EA-1DD8-B71B-0BF8CE99D6958A0E.jpg",
+    park_id: 79
+  }
 ])
